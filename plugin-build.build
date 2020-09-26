@@ -1,0 +1,4 @@
+name: open-fl-variable-instructions
+include: .\src\OpenFL.VariableInstructions\bin\Debug\netstandard2.0\OpenFL.DefaultInstructions.dll
+target: .\src\OpenFL.VariableInstructions\bin\Debug\netstandard2.0\OpenFL.VariableInstructions.dll
+#output: .\build\open-fl-variable-instructions.zip
