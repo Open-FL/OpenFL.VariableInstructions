@@ -10,7 +10,6 @@ namespace OpenFL.VariableInstructions
     public class VariableInstructionsPlugin : APlugin<FLInstructionSet>
     {
 
-        public override string Name => "open-fl-variable-instructions";
 
         public override void OnLoad(PluginAssemblyPointer ptr)
         {
