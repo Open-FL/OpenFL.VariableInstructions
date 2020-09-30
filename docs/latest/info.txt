@@ -1,1 +1,1 @@
-open-fl-variable-instructions|OpenFL.VariableInstructions.dll|https://open-fl.github.io/OpenFL.VariableInstructions/latest/info.txt|0.0.1.28|
+open-fl-variable-instructions|OpenFL.VariableInstructions.dll|https://open-fl.github.io/OpenFL.VariableInstructions/latest/info.txt|0.0.1.29|
