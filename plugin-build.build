@@ -4,3 +4,4 @@ target: .\src\OpenFL.VariableInstructions\bin\Debug\netstandard2.0\OpenFL.Variab
 output: .\docs\latest\open-fl-variable-instructions.zip
 origin: https://open-fl.github.io/OpenFL.VariableInstructions/latest/info.txt
 flags: INFO_TO_OUTPUT
+dependency: open-fl-default-instructions
