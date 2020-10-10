@@ -17,7 +17,7 @@ namespace OpenFL.Core.Instructions.Variables
 
         public override void Process()
         {
-            if(Arguments.Count <= 1)
+            if (Arguments.Count <= 1)
             {
                 throw new InvalidOperationException("Not enough arguments. Expected <name> <value/name>");
             }
